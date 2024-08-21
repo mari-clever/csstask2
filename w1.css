@@ -1,0 +1,101 @@
+.athi{
+    background-image: url('img4.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=DM+Serif+Text:ital@0;1&family=Foldit:wght@100..900&family=Grey+Qo&family=Gupter:wght@400;500;700&family=Kanit:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Lato:ital,wght@0,100;0,300;0,400;0,700;0,900;1,100;1,300;1,400;1,700;1,900&family=Merriweather:ital,wght@0,300;0,400;0,700;0,900;1,300;1,400;1,700;1,900&family=Noto+Serif:ital,wght@0,100..900;1,100..900&family=Open+Sans:ital,wght@0,300..800;1,300..800&family=Playfair+Display:ital,wght@0,400..900;1,400..900&family=Playwrite+BE+WAL:wght@100..400&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Teko:wght@300..700&display=swap');
+.main{
+        text-align: center;
+        font-family: "DM Serif Text", serif;
+        font-weight: 100%;
+        font-style: italic;  
+        padding: 2%;    
+}
+.container{
+    position: relative;
+    left: 4%;
+}
+.box1{
+    border-radius: 3%;
+    box-shadow: 1% 1% 8%;
+    width: 250px;
+    height: 400px;
+    background-color: rgb(84, 84, 214);
+    color: white;
+}
+.z0{
+    justify-content: center;
+    display: flex;
+    padding: 1%;
+}
+.mari{
+    padding: 5%;
+
+}
+.gray{
+    color: gainsboro;
+    padding: 1%;
+}
+h4{
+    display: inline;
+}
+.gugan{
+    border-radius: 10px;
+    width:90%;
+    height: 40px;
+    background-color: white;
+    color: black;
+}
+.y{
+    padding: 15%;
+    position: relative;
+    top: 15%;
+}
+
+.box4{
+    cursor: pointer;
+    position: relative;
+    left: 7%;
+    top: 80px;
+}
+.box4:hover{
+    padding: 5px;
+    transition: 0.3s;
+}
+
+.box2{
+    border-radius: 3%;
+    box-shadow: 1px 1px 8px;
+    width: 250px;
+    height: 400px;
+}
+.mani{
+    border-radius: 10px;
+    width:90%;
+    height: 40px;
+    background-color: rgb(226, 191, 127);
+    color: black;
+}
+.aq{
+    color: black;
+    padding: 1%;
+}
+.hari{
+    padding: 5%;
+}
+.box3{
+    border-radius: 3%;
+    box-shadow: 1px 1px 8px;
+    width: 250px;
+    height: 400px;
+}
+.guna{
+    padding: 5%;
+}
+.gokul{
+    border-radius: 10px;
+    width:90%;
+    height: 40px;
+    background-color: rgb(76, 76, 224);
+    color: white;
+}
